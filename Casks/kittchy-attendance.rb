@@ -1,6 +1,6 @@
 cask "kittchy-attendance" do
-  version "0.1.0"
-  sha256 "06754f64344764fedba7eb811ed767eb5de77ebe1703a2161a7e42be8feda3e9"
+  version "0.3.0"
+  sha256 "edfdc71525b090a1a20acac9425d93e34926df5606dfd00b2b828789d17b5db7"
 
   url "https://github.com/kittchy/kittchy-attendance-system/releases/download/v#{version}/kittchy-attendance_#{version}_aarch64.dmg"
   name "Kittchy Attendance"
